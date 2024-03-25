@@ -1,0 +1,25 @@
+h1 {
+  color: rgb(17, 231, 120);
+}
+body {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 13px;
+}
+h1 {
+  font-style: oblique;
+}
+tr:hover {
+  background-color: blue;
+  color: white;
+}
+tr {
+  font-style: italic;
+}
+td {
+  vertical-align: middle;
+}
+#table:hover {
+  background-color: blue;
+  width: 20;
+  color: rgb(218, 236, 236);
+}
